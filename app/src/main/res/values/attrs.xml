@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="font_weight" format="string" />
+    <attr name="transform" format="boolean" />
+
+    <declare-styleable name="ExtendedTextView">
+        <attr name="font_weight" />
+    </declare-styleable>
+
+    <declare-styleable name="ExtendedButton">
+        <attr name="font_weight" />
+        <attr name="transform" />
+    </declare-styleable>
+</resources>

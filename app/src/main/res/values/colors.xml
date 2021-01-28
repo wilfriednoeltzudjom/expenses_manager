@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#592965</color>
+    <color name="colorPrimaryDark">#42224A</color>
+    <color name="colorPrimaryLight">#914DA2</color>
+    <color name="colorSecondary">#8F659A</color>
+    <color name="colorSecondaryDark">#42224A</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorGray">#ACB0B7</color>
+    <color name="colorDarkGray">#9CA1A9</color> <!-- Menu items inactive -->
+    <color name="colorShadowGray">#559CA1A9</color>
+    <color name="colorCyan">#C3C9CB</color>  <!-- Button labels -->
+    <color name="colorCyanDark">#C7D1D5</color>  <!-- Text labels -->
+    <color name="colorLight">#F7F4F7</color> <!-- Button backgrounds -->
+    <color name="colorLightMedium">#F8F8F8</color> <!-- Button borders -->
+    <color name="colorLightDark">#EFE9F1</color>
+    <color name="colorGreen">#EF8767</color> <!-- Main button background -->
+    <color name="colorGreenLight">#F5B4A0</color> <!-- Main button background -->
+    <color name="colorBlack">#120216</color> <!-- Main button background -->
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorToolbarDivider">#EAE9E9</color>
+    <color name="colorEditText">#EFE9F1</color>
+    <color name="colorEditTextDark">#E6D4EC</color>
+    <color name="colorRed">#D92027</color>
+    <color name="colorRedLight">#F64B3C</color>
+</resources>

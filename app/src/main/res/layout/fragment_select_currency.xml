@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/colorWhite"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".fragments.SelectCurrencyFragment">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/select_currency_recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:scrollbars="vertical"
+        android:scrollbarAlwaysDrawVerticalTrack="true"
+        android:layout_marginTop="24dp" />
+
+    <com.thetechshrine.expensemanager.components.views.ExtendedButton
+        android:id="@+id/select_currency_save"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:background="@drawable/background_primary_button_outline"
+        android:textColor="@color/colorPrimary"
+        android:text="@string/save"
+        android:textStyle="bold"
+        app:font_weight="SemiBold" />
+
+</LinearLayout>
